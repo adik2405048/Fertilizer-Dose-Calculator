@@ -1,11 +1,12 @@
 # fertilizer calculator
-I've create a single html file. It will contain a database of fertilizer recommendations for different crops, a function to calculate the dosage based on your inputs, and a simple command-line interface to interact with the app.
+Project: Fertilizer Dosage Calculator
+I developed this web application using HTML & JavaScript creating a clean, fast, & accessible experience for everyone. The backend logic is powered by agricultural data based on Bangladesh Krishi Rules.
 
-Key Functionalities:
-1. User Inputs: You can enter the land area and select the unit (Decimal, Katha, Bigha, Acre, or Hectare). Then, you choose the crop from a dropdown menu.
-2. Backend Data: The fertilizer recommendations for different crops (Paddy, Wheat, Jute, etc.), based on standard Bangladeshi agricultural data, are embedded directly into the code.
-3. Calculation: When you click the "Calculate" button, the JavaScript code converts your land area to hectares, finds the recommended dosage for your selected crop, and calculates the total amount of Urea, TSP (Triple Superphosphate), and MoP (Muriate of Potash) needed.
-4. Output: The results are displayed clearly in kilograms.
+Key Features:
+• User Inputs: You can enter the land area and select the unit (Decimal, Katha, Bigha, Acre, or Hectare). Then, you choose the crop from a dropdown menu.
+• Backend Data: The fertilizer recommendations for different crops (Paddy, Wheat, Jute, etc.), based on standard Bangladeshi agricultural data, are embedded directly into the code.
+• Calculation: When you click the "Calculate" button, the JavaScript code converts your land area to hectares, finds the recommended dosage for your selected crop, & calculates the total amount of Urea, TSP & MoP needed.
+• Instant & Accurate Results: Instantly calculates the required amount of Urea, TSP, and MoP in kilograms.
 
-The whole project was done in HTML Notepad++
-
+This calculator helps farmers to apply the right amount of fertilizer no more, no less. This prevents resource wastage, saves money, improves crop yield, & promotes more sustainable farming practices. It's a small step towards precision agriculture, made accessible for all.
+Built using: HTML, JavaScript, Open Data Editor, Notepad++
