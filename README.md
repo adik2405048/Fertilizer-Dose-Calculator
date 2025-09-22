@@ -1,6 +1,6 @@
 # fertilizer calculator
 Project: Fertilizer Dosage Calculator
-I developed this web application using HTML & JavaScript creating a clean, fast, & accessible experience for everyone. The backend logic is powered by agricultural data based on Bangladesh Krishi Rules.
+I developed this project using a foundational web stack: html for the structure, JavaScript for the calculation logic & most importantly pure handwritten CSS for all the styling. The backend logic is powered by agricultural data based on Bangladesh Krishi Rules.
 
 Key Features:
 
@@ -13,4 +13,4 @@ Key Features:
 • Instant & Accurate Results: Instantly calculates the required amount of Urea, TSP, and MoP in kilograms.
 
 This calculator helps farmers to apply the right amount of fertilizer no more, no less. This prevents resource wastage, saves money, improves crop yield, & promotes more sustainable farming practices. It's a small step towards precision agriculture, made accessible for all.
-Built using: HTML, JavaScript, Open Data Editor, Notepad++
+Built using: CSS,html,JavaScript,Notepad++
