@@ -13,4 +13,4 @@ Key Features:
 • Instant & Accurate Results: Instantly calculates the required amount of Urea, TSP, and MoP in kilograms.
 
 This calculator helps farmers to apply the right amount of fertilizer no more, no less. This prevents resource wastage, saves money, improves crop yield, & promotes more sustainable farming practices. It's a small step towards precision agriculture, made accessible for all.
-Built using: CSS,html,JavaScript,Notepad++
+Built using: CSS,html,JavaScript
